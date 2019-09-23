@@ -1,2 +1,3 @@
-# JulieanneSDK
-The server side SDK for controlling and accessing any and all server interaction
+# Julieanne SDK
+
+A description of this package.
